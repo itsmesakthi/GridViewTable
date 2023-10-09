@@ -1,0 +1,17 @@
+﻿body {
+    margin:0px;
+    padding:0px;
+    background-color:brown;
+}
+#Dv_Gridview {
+    background-color: lightyellow;
+}
+#Grd_View tr:hover {
+    background-color: white;
+}
+#Grd_View td:hover {
+    background-color: lightyellow;
+    border:1px solid black;
+}
+
+
